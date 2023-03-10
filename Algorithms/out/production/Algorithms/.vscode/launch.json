@@ -1,0 +1,109 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "quick_sort",
+      "request": "launch",
+      "mainClass": "quick_sort",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "insertion_sort1",
+      "request": "launch",
+      "mainClass": "insertion_sort1",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "selection_sort2",
+      "request": "launch",
+      "mainClass": "selection_sort2",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "selection_sort",
+      "request": "launch",
+      "mainClass": "selection_sort",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "selection_sort1",
+      "request": "launch",
+      "mainClass": "selection_sort1",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "cyclic_sort1",
+      "request": "launch",
+      "mainClass": "cyclic_sort1",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "bubble_sort1",
+      "request": "launch",
+      "mainClass": "bubble_sort1",
+      "projectName": "Sorting_f35cc1fe"
+    },
+    {
+      "type": "java",
+      "name": "Launch insertion_sort",
+      "request": "launch",
+      "mainClass": "insertion_sort",
+      "projectName": "Sorting_1b356a02"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch selection_sort",
+      "request": "launch",
+      "mainClass": "selection_sort",
+      "projectName": "Sorting_1b356a02"
+    },
+    {
+      "type": "java",
+      "name": "Launch BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "Sorting_1b356a02"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "/home/shubham/Desktop/Shubham_Codes/Algorithms/Sorting",
+      "environment": [],
+      "program": "/home/shubham/Desktop/Shubham_Codes/Algorithms/Sorting/build/Debug/outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "externalConsole": false
+    }
+  ]
+}

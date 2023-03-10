@@ -10,7 +10,7 @@ def twoSum(self, nums: List[int], target: int):
                 return [i,j]
     return []
 
-# Using hashmap
+# Using hashmap one pass
 
 
 def twoSum(self, nums: List[int], target: int) -> List[int]:
@@ -21,3 +21,18 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
           if diff in numMap:
               return [ numMap[diff],i]
           numMap[num] =i
+
+
+
+
+# Using hashmap two pass
+
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+        hashmap = {}
+        for i in range(len(nums)):
+            hashmap[nums[i]] = i
+        for i in range(len(nums)):
+            complement = target - nums[i]
+            if complement in hashmap and hashmap[complement] != i:
+                return [i, hashmap[complement]] 
+                

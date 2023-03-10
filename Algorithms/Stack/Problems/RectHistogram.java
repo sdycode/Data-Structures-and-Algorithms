@@ -1,2 +1,4 @@
-package Problems;public class RectHistogram {
+package Problems;
+
+public class RectHistogram {
 }
