@@ -1,4 +1,4 @@
-package Problems;
+package Array.Problems;
 
 import java.util.Stack;
 

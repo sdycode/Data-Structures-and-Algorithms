@@ -1,4 +1,7 @@
 public class CircularQueue {
+// Here in circualr queue front is added
+// In normal linked list just end was there which was resposible for pointer.
+// Now in circular queue front which is at 0 initialy is increamented as we remove item from list.
 
     private static final int DEFAULT_SIZE = 3;
 

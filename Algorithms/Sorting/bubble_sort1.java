@@ -25,7 +25,7 @@ public class bubble_sort1 {
                     
                 }
                
-                System.out.println();
+//                System.out.println();
 
 
             }
